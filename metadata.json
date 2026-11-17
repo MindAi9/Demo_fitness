@@ -1,0 +1,8 @@
+{
+  "name": "IRONVAULT FITNESS CLUB",
+  "description": "Premium cinematic gym and fitness club demo featuring interactive scroll choreography, membership showcase, training programs, coaching profiles, and class scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
